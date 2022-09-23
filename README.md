@@ -1,4 +1,4 @@
-## Hey 👋, This is Paweł Kosiński <br>
+## Hey 👋, I am Paweł Kosiński <br>
 
 I am a junior front-end developer.<br>
 I develop myself every day and set myself new goals.<br>
