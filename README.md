@@ -2,7 +2,7 @@
 
 I am a junior front-end developer.<br>
 I develop myself every day and set myself new goals.<br>
-My greatest passions are sports and traveling, now I started traveling around the world and I am in Mexico.<br>
+My greatest passions are sports and traveling.<br>
 It's nice to see you on my profile.</p><br>
 
 ## Skills<br>
